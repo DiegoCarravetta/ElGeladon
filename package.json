@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoCarravetta/ElGeladonBackend/issues"
   },
-  "homepage": "https://github.com/DiegoCarravetta/ElGeladonBackend#readme"
+  "homepage": "https://github.com/DiegoCarravetta/ElGeladonBackend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
